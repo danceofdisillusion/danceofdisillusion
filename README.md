@@ -15,6 +15,6 @@
 
 ![Michelle's github stats](https://github-readme-stats.vercel.app/api?username=danceofdisillusion&show_icons=true&theme=synthwave&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancedisillusion&show_icons=true&theme=buefy&layout=compact&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danceofdisillusion&show_icons=true&theme=buefy&layout=compact&langs_count=4)
 
 ![decorative](https://user-images.githubusercontent.com/31839316/96356871-bc56e800-10b1-11eb-92b2-f8d19160831b.png)
