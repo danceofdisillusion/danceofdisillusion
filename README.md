@@ -1,7 +1,7 @@
 ### Here is what I'm currently working on
 
 - 🔭 I’m currently working at ... FedEx through Cook Systems
-- 🦕 I’m currently working on ... Cook Systems FastTrack Program and Turing School Backend Curriculum
+- 🦕 I’m currently working on ... 
 - 🌱 I’m currently learning ...  Java, Spring, Java Script, HTML CSS, Ruby on Rails
 - 👯 I’m looking to collaborate on ... Back-end Develpoment
 - 💬 Ask me about ... anything
